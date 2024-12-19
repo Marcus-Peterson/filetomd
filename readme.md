@@ -1,6 +1,3 @@
-Fancy README.md
-markdown
-Copy code
 # 📝 File to Markdown Converter 📝
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-Framework-red)](https://streamlit.io/)
