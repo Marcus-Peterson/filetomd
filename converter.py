@@ -69,7 +69,7 @@ def main():
     st.title("📝 File to Markdown Converter 📝")
     st.markdown(
         """
-        Upload any supported file (e.g., PDF, Word, Excel, PowerPoint, images, audio files, etc.), 
+        Upload any supported file (e.g., PDF, Word, Excel, PowerPoint), 
         and this app will convert it to Markdown. You can also download the Markdown file afterward.
         """
     )
