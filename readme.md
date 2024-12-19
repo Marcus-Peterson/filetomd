@@ -9,7 +9,9 @@ Copy code
 
 Effortlessly convert your files to Markdown format with this user-friendly Streamlit application. This tool supports a variety of file formats (e.g., PDFs, Word documents, Excel sheets, PowerPoint presentations, and converts them into clean, readable Markdown that you can download and use anywhere!)
 
-Test the app for yourself  [![filetomd](https://img.shields.io/badge/filetomd-visit-brightgreen)](https://filetomd.streamlit.app)
+Curious to see how it works? Click the badge below to explore:
+
+[![filetomd](https://img.shields.io/badge/filetomd-Try%20Now-brightgreen?style=for-the-badge)](https://filetomd.streamlit.app)
 
 
 ## 🌟 Features
